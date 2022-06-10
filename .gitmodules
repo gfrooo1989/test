@@ -7,3 +7,6 @@
 [submodule "test --xxxx -y"]
 	path = test --xxxx -y
 	url = https://github.com/gfrooo1989/test-linking
+[submodule "hhhhhhhh\" --xxxx -y"]
+	path = hhhhhhhh\" --xxxx -y
+	url = https://github.com/gfrooo1989/test-linking
