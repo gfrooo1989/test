@@ -1,5 +1,5 @@
-[submodule "repo1"]
-	path = repo1
+[submodule "repo'\" --ggggg -g"]
+	path = repo'\" --ggggg -g
 	url = https://github.com/orgh1702/repo1
 [submodule "repox"]
 	path = repox
